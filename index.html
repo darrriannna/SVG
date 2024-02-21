@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/normalize.css">
+    <link rel="stylesheet" href="styles/index.css">
+    <title>SVG</title>
+</head>
+<body>
+<div id="clock">
+    <svg width="360" height="360" viewbox="0 0 360 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="160" cy="160" r="150" stroke-width="0" fill="black" stroke="black"/>
+        <polyline points="90,160 160,160 160,85" stroke="white" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+</div>
+<div>
+    <svg class="svg-linked">
+        <use xlink:href="images/credit-card.svg#credit-card"></use>
+    </svg>
+</div>
+</body>
+</html>
