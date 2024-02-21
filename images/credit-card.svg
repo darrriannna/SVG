@@ -1,0 +1,16 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 enable-background="new 0 0 420px 420px" xml:space="preserve">
+    <symbol id="credit-card" viewbox="0 0 420 420">
+        <rect width="300" height="220" x="20" y="40" rx="20" ry="20" fill="#FFC247"/>
+        <circle cx="240" cy="200" r="30" fill="#FB3640"/>
+        <circle cx="270" cy="200" r="30" fill="#3066BE"/>
+        <rect width="300" height="50" x="20" y="70" rx="0" ry="0" fill="#907F7A"/>
+        <rect width="60" height="10" x="50" y="150" rx="5" ry="5" fill="#FEFAD8"/>
+        <rect width="60" height="10" x="120" y="150" rx="5" ry="5" fill="#FEFAD8"/>
+        <rect width="15" height="10" x="50" y="180" rx="5" ry="5" fill="#FEFAD8"/>
+        <rect width="25" height="10" x="75" y="180" rx="5" ry="5" fill="#FEFAD8"/>
+        <rect width="15" height="10" x="110" y="180" rx="5" ry="5" fill="#FEFAD8"/>
+        <rect width="25" height="10" x="135" y="180" rx="5" ry="5" fill="#FEFAD8"/>
+        <rect width="10" height="10" x="170" y="180" rx="5" ry="5" fill="#FEFAD8"/>
+    </symbol>
+</svg>
